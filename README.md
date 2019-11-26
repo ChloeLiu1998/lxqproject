@@ -21,6 +21,7 @@ information about each food on the website, such as name,price and number of vot
 + DELETE/staff/:is - Delete a staff
 
 ## Data model.
+[datamodel]: a.png
 ![][datamodel]
 ## Sample Test execution.
 GET /food 200 670.159 ms - 9209
@@ -104,4 +105,3 @@ In the process of testing, there will be unexpected reasons for test failure. I 
 
 ## link.
 https://github.com/ChloeLiu1998/lxqproject
-[datamodel]: a.png
